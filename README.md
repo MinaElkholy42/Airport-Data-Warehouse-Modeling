@@ -15,3 +15,5 @@ and after your trip in order to handle customer inquiries, complaints and keep t
 The finance team will be interested in analyzing the company profit. 
 
 All the previous processes are included in the model of the data warehouse in galaxy schema in terms of fact and dimension tables.
+
+The B-Tree Indexes type is the best option in this case for searching and fetching data.
